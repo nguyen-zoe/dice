@@ -7,5 +7,5 @@ let ranImg2= document.querySelector('.img2').setAttribute('src', `./images/dice$
 
 //declare the winner
 
-document.querySelector('h1').innerHTML= ranNum1 >ranNum2 ? "Player 1 wins" : "Player 2 wins"; 
+document.querySelector('h2').innerHTML= ranNum1 >ranNum2 ? "Player 1 wins 🚩" : "Player 2 wins "; 
 

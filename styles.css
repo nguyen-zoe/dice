@@ -19,6 +19,13 @@ h1 {
   font-family: 'Spicemen', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
+  color: #092c0f;
+}
+h2 {
+  margin: 30px;
+  font-family: 'Spicemen', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
   color: #21b33c;
 }
 
